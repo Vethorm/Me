@@ -1,10 +1,8 @@
 ### Kyle Vance
 
-Current a software engineer based out of California
-
 My interests revolve around data and data systems.
 
-Most recently I've had experience building systems around Entity Resolution/Record Linkage and Natural Language Queries.
+Most recently I've had experience building systems around Entity Resolution/Record Linkage and using LLMs for using Natural Language to query databases.
 
 I've built with Apache Spark, Apache Airflow, SQL and NoSQL databases, Docker, Python, LLMs/Machine Learning.
 
